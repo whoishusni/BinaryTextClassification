@@ -1,1 +1,2 @@
-# BinaryTextClassification
+# BinaryTextClassification  
+Binary Text Classification Using Python
